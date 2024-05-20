@@ -1,2 +1,9 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=ScadeBlock)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+### Hello there 👋
+
+#### 🧊 ScadeBlock 🧊
+
+⚡ I currently studying as a mid-school student ⚡ 
+
+- 📀 I use daily: `.py`, `.js`, `.html`, `.css`
+- 💡 I also like making Minecraft stuffs!
+- 💬 I currently participating, so I would love to attend projects!
